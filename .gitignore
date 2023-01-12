@@ -1,3 +1,6 @@
-/src/main.py
+/alamo/main.py
 **/__pycache__/**
 .idea
+alamo.egg-info/**
+build/**
+dist/**
