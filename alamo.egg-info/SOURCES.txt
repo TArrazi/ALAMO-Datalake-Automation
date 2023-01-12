@@ -1,0 +1,7 @@
+README.md
+setup.py
+alamo.egg-info/PKG-INFO
+alamo.egg-info/SOURCES.txt
+alamo.egg-info/dependency_links.txt
+alamo.egg-info/top_level.txt
+src/main.py
