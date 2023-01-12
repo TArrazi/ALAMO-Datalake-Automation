@@ -7,5 +7,5 @@ setup(
     url='https://github.com/TArrazi/ALAMO-Datalake-Automation',
     author='Tiago Costa Arrazi',
     author_email='N/A',
-    packages=['src'],
+    packages=['alamo']
 )
